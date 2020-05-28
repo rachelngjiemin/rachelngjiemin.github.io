@@ -3,7 +3,7 @@
 
 menu:
 - {name: 'Projects', url: ''}
-- {name: 'Blog', url: 'pages/blog.html'}
+- {name: 'Courses', url: 'pages/blog.html'}
 - {name: 'About', url: 'pages/about.html'}
 - {name: 'Contact', url: 'pages/contact.html'}
 
@@ -39,33 +39,40 @@ disqus:
 # About Section
 
 about: >
-  # Portfolio Jekyll Theme
+  # hello again!
 
-  This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
+  I am Rachel, a rising junior studying at the University of California, Berkeley.
+  Currently, I am pursuing a simultaneous degree in Data Science and Environmental Science.    
+  &nbsp; 
+  &nbsp;                                 
+
+  This website was build with the foundations of Paul LeN's jekyll theme. Full credit to him for a majority of the skeleton which can be found here:
+  [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
 
 contact: >
   # Contact
 
-  You may contact me [through my email](mailto:l.nguyen.paul@gmail.com) or [tweet at me](https://twitter.com/intent/tweet?text=%40paululele) if you have any questions or would like to bring up any issues.
+  You may contact me [through my email](mailto:rachelngjiemin@gmail.com) or drop me a [Linkedin Message](https://www.linkedin.com/in/rachel-ngjiemin/) if you have any questions or would like to stay connected!
+
+intro: > 
+  # hello! I am Rachel and thanks for dropping in. Head over to the about section to find out more about me. Alternatively, explore projects that I've been involved in below 
 
 #-------------------------------
 # Work Section
 
 projects:
-- {name: 'Project One', folder: 'proj-1', file: 'projects/proj-1.html'}
-- {name: 'Project Two', folder: 'proj-2', file: 'projects/proj-2.html'}
-- {name: 'Project Three', folder: 'proj-3', file: 'projects/proj-3.html'}
-- {name: 'Project Four', folder: 'proj-4', file: 'projects/proj-4.html'}
-- {name: 'Project Five', folder: 'proj-5', file: 'projects/proj-5.html'}
+- {name: 'people and places!', folder: 'proj-1', file: 'projects/proj-1.html'}
+- {name: 'course projects', folder: 'proj-2', file: 'projects/proj-2.html'}
+- {name: 'other projects', folder: 'proj-3', file: 'projects/proj-3.html'}
+- {name: 'volunteer work', folder: 'proj-4', file: 'projects/proj-4.html'}
+- {name: 'designs', folder: 'proj-5', file: 'projects/proj-5.html'}
 
 #-------------------------------
 # Contact Section
 
 social:
-- {icon: 'twitter', link: '#'}
-- {icon: 'instagram', link: '#'}
-- {icon: 'github', link: '#'}
-- {icon: 'linkedin', link: '#'}
-- {icon: 'envelope', link: 'mailto:#'}
+- {icon: 'github', link: 'https://github.com/rachelngjiemin'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/rachel-ngjiemin/'}
+- {icon: 'envelope', link: 'mailto:rachelngjiemin@gmail.com'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'

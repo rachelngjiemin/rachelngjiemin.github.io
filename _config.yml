@@ -3,6 +3,7 @@
 markdown: kramdown
 permalink: none
 plugins:             [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
+github: [metadata]
 
 port: 4000
 
@@ -12,6 +13,6 @@ sass:
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 
-title:		           "Portfolio Jekyll Theme"
+title:		           "Rachel Ng Jie Min"
 description:	       "Powered by Jekyll and GitHub Pages"
-author:              "Paul Le"
+author:              "Modified by Rachel Ng, original Jekyll by Paul Le"
