@@ -3,7 +3,7 @@
 
 menu:
 - {name: 'Projects', url: ''}
-- {name: 'Courses', url: 'pages/blog.html'}
+- {name: 'Courses', url: 'pages/course.html'}
 - {name: 'About', url: 'pages/about.html'}
 - {name: 'Contact', url: 'pages/contact.html'}
 
@@ -54,8 +54,20 @@ contact: >
 
   You may contact me [through my email](mailto:rachelngjiemin@gmail.com) or drop me a [Linkedin Message](https://www.linkedin.com/in/rachel-ngjiemin/) if you have any questions or would like to stay connected!
 
-intro: > 
-  # hello! I am Rachel and thanks for dropping in. Head over to the about section to find out more about me. Alternatively, explore projects that I've been involved in below 
+creds: > 
+  # Credits
+
+  #### Logo Design
+
+  Thank you Kah Kiat for helping me design the above logo. I appreicate you so much and you are so talented. I love ya!
+  Check out her at <a href="https://www.behance.net/kahkiat" style="color:red"> behance</a> and <a href="https://www.instagram.com/pulpskiin/" style="color:red"> instagram portfolio</a>!
+
+  #### Jekyll Starter Kit
+
+  Information on Jekyll Provided by Paul Nen which had helped me build this site.
+  The Jekyll Starter Kit is a simple framework for starting your own Jekyll project using all of the best practices that I learned from building my other Jekyll themes.
+
+  Feel free to check out <a href="https://github.com/LeNPaul/jekyll-starter-kit" target="_blank" style="color:red">the GitHub repository</a>, where you’ll also find instructions on how to use install and use the theme. 
 
 #-------------------------------
 # Work Section

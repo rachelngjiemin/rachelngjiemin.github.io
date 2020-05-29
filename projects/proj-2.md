@@ -1,10 +1,18 @@
 ---
 layout: post
-title: 'Project Two'
+title: 'course work and projects'
 ---
 
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed ultrices tortor nec nunc hendrerit rutrum. Nullam congue nulla eu placerat convallis. Morbi volutpat dolor nunc, nec dignissim neque condimentum nec. Nullam vel sem egestas augue tempus pulvinar in vitae neque. Ut mattis tincidunt felis, laoreet aliquet ex mollis ac. Sed sit amet nisl id enim blandit facilisis. Maecenas quis ultrices sapien, ac ullamcorper mi.
+As part of course work, we are often required to complete rigorous projects that span several weeks or months. Click on the links below to find out more about projects I have completed for course work at UC Berkeley. The data structures project were completed for [CS61B](https://www2.eecs.berkeley.edu/Courses/CS61B/): Data Structures.
+
+<br>
+
+Both the Covid projects and data science projects were completed for a combination of two data science courses: 
+
+* [Data8](https://data.berkeley.edu/education/courses/data-8): The Foundations of Data Science
+* [Data100](https://data.berkeley.edu/education/courses/data-100): Principles and Techniques of Data Science
+
+
+Find out more about the courses I've taken [here](https://rachelngjiemin.github.io/pages/blog.html)!
 
 {% include blog_in.html %}
-
-{% include image.html url="http://www.gratisography.com" image="projects/proj-2/stretch.jpg" %}

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Text Formatting Examples"
+title: "Data Science Projects"
 ---
 
 # Markdown Support
