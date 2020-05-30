@@ -47,7 +47,12 @@ about: >
   &nbsp;                                 
 
   This website was build with the foundations of Paul LeN's jekyll theme. Full credit to him for a majority of the skeleton which can be found here:
-  [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
+  <a href="https://lenpaul.github.io/portfolio-jekyll-theme/" style="color:red"> check out the demo</a>, and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
+
+intro: > 
+  hello! I am Rachel and thanks for dropping in. Head over to the 
+  about section to find out more about me. Alternatively, explore projects
+  that I've been involved in below :>
 
 contact: >
   # Contact

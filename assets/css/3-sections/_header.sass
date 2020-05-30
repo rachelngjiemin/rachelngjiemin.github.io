@@ -1,13 +1,9 @@
 header
-  height: 100px
-  width: 880px
+  height: 90px
 
   .logo
     float: left
-    position: relative
     height: 80px
-    width: 350px
-    right: 30px
     margin: 30px 0 0 0
     font:
       size: 24px
@@ -19,23 +15,21 @@ header
         color: $accent-color
 
     img
-      position: relative
+      float: left
+      margin: -35px 0 0 0
       display: inline-block
-      bottom: 70px
-      left: 10px
       height: auto
       width: auto
       vertical-align: text-top
       max-height: 120px
       max-width: 250px
-      float: left
 
   nav
     float: left
     margin: 30px 30px 0 0
     a
       display: inline-block
-      margin-left: 20px
+      margin-left: 12px
       color: rgba(0,0,0,1)
       font:
         size: 24px
@@ -43,16 +37,63 @@ header
       &:hover
         color: $accent-color
 
-@media (max-width: 768px)
+@media (max-width: 768px) and (min-width: 673px)
   header
     .logo
-      margin: 10px 20px 0px 0px
+      float: left
+      margin: 25px 0px 0px 0px
+      img
+        margin: -20px 0px 0px 0px
     nav
       margin: 0px
-      margin-top: 18px
+      margin-top: 30px
+      margin-bottom: 20px
       float: left
       a
         margin-left: 0px
         margin-right: 20px
         font:
           size: 16px
+
+@media (max-width: 673px)
+  header
+    .logo
+      float: left
+      margin: 60px 0px 0px 0px
+      img
+        margin: -35px 0px 0px 0px
+    nav
+      margin: 0px
+      margin-top: 30px
+      margin-bottom: 20px
+      width: 100%
+      float: left
+      a
+        margin-left: 0px
+        margin-right: 20px
+        font:
+          size: 16px
+
+@media (max-width: 345px)
+  header
+    .logo
+      float: left
+      margin: 25px 0px 0px 0px
+      img
+        margin: -20px 0px 0px 0px
+        height: auto
+        width: auto
+        vertical-align: text-top
+        max-height: 80px
+        max-width: 250px
+    nav
+      margin: 0px
+      margin-top: 30px
+      margin-bottom: 20px
+      width: 100%
+      float: left
+      a
+        margin-left: 0px
+        margin-right: 10px
+        font:
+          size: 14px
