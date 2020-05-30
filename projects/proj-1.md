@@ -1,10 +1,10 @@
 ---
-layout: post
+layout: default
 title: 'people and places: my random collection of photos'
 ---
 
-A diary of a few of my favourite photos I've taken. I am extremely grateful that this photo album can have photos from [Big Sur, California](#) to [Singapore](#). Not much of a      
-*~ travel to find yourself ~* kinda gal, but thank you to the people and places that take me on adventures and help me grow!
+<br>
+A diary of a few of my favourite photos I've taken. I am extremely grateful that this photo album can have photos from [Big Sur, California](#) to [Singapore](#). Not much of a *~ travel to find yourself ~* kinda gal, but thank you to the people and places that take me on adventures and help me grow!
 
 <br>
 
@@ -13,4 +13,5 @@ A diary of a few of my favourite photos I've taken. I am extremely grateful that
 image7="projects/proj-1/IMG_8603.jpg" image8="projects/proj-1/IMG_8616.jpg" image9="projects/proj-1/IMG_9458.jpg" image10="projects/proj-1/IMG_9548 (1).jpg" image11="projects/proj-1/IMG_9590.jpg" image12="projects/proj-1/IMG_9799.jpg"
 image13="projects/proj-1/IMG20181221161257.jpg" image14="projects/proj-1/P1070544.jpg" image15="projects/proj-1/IMG_8575.JPG"  image16="projects/proj-1/IMG_9033.JPG" 
 image17="projects/proj-1/IMG_0623.jpg"  image18= "projects/proj-1/IMG_9872.JPG" %}
+
 

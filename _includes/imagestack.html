@@ -4,44 +4,25 @@
   box-sizing: border-box;
 }
 
-body {
-  margin: 0;
-  font-family: Arial;
-}
-
-.header {
-  text-align: center;
-  padding: 32px;
-}
-
-.row {
-  display: -ms-flexbox; /* IE10 */
-  display: flex;
-  -ms-flex-wrap: wrap; /* IE10 */
-  flex-wrap: wrap;
-  padding: 0 4px;
-}
-
-/* Create four equal columns that sits next to each other */
+/* Create two equal columns that floats next to each other */
 .column {
-  -ms-flex: 100%; /* IE10 */
-  flex: 100%;
-  max-width: 100%;
-  padding: 0 4px;
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
 }
 
-.column img {
-  margin-top: 8px;
-  vertical-align: middle;
-  width: 150%;
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
 }
 
-/* Responsive layout - makes a two column-layout instead of four columns */
-@media screen and (max-width: 800px) {
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
   .column {
-    -ms-flex: 50%;
-    flex: 50%;
-    max-width: 50%;
+    width: 100%;
   }
 }
 
