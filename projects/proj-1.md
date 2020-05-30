@@ -3,7 +3,8 @@ layout: default
 title: 'people and places: my random collection of photos'
 ---
 
-<br>
+<h4 style="color:#000000"> people and places: my random collection of photos </h4>
+
 A diary of a few of my favourite photos I've taken. I am extremely grateful that this photo album can have photos from [Big Sur, California](#) to [Singapore](#). Not much of a *~ travel to find yourself ~* kinda gal, but thank you to the people and places that take me on adventures and help me grow!
 
 <br>

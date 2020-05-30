@@ -1,8 +1,14 @@
 header
-  height: 90px
+  height: 100px
+  width: 880px
+
   .logo
     float: left
-    margin: 30px
+    position: relative
+    height: 80px
+    width: 350px
+    right: 30px
+    margin: 30px 0 0 0
     font:
       size: 24px
       weight: 700
@@ -11,8 +17,21 @@ header
       color: rgba(0,0,0,1)
       &:hover
         color: $accent-color
+
+    img
+      position: relative
+      display: inline-block
+      bottom: 70px
+      left: 10px
+      height: auto
+      width: auto
+      vertical-align: text-top
+      max-height: 120px
+      max-width: 250px
+      float: left
+
   nav
-    float: right
+    float: left
     margin: 30px 30px 0 0
     a
       display: inline-block
@@ -27,7 +46,7 @@ header
 @media (max-width: 768px)
   header
     .logo
-      margin: 10px 30px 0px 0px
+      margin: 10px 20px 0px 0px
     nav
       margin: 0px
       margin-top: 18px
