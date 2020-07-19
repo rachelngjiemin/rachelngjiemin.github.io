@@ -13,9 +13,7 @@ menu:
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
 seo:
-  description: 'Personal portfolio powered by Jekyll and GitHub Pages '
-  rel-author: 'https://plus.google.com/u/0/#'
-  rel-publisher: 'https://plus.google.com/u/0/#'
+  description: "rachel's personal portfolio! powered by Jekyll and GitHub Pages"
 
 #-------------------------------
 # Google Analytics Section
@@ -80,8 +78,8 @@ creds: >
 projects:
 - {name: 'people and places!', folder: 'proj-1', file: 'projects/proj-1.html'}
 - {name: 'course projects', folder: 'proj-2', file: 'projects/proj-2.html'}
-- {name: 'other projects', folder: 'proj-3', file: 'projects/proj-3.html'}
-- {name: 'volunteer work', folder: 'proj-4', file: 'projects/proj-4.html'}
+- {name: 'personal projects', folder: 'proj-3', file: 'projects/proj-3.html'}
+- {name: 'mentoring and volunteering', folder: 'proj-4', file: 'projects/proj-4.html'}
 - {name: 'designs', folder: 'proj-5', file: 'projects/proj-5.html'}
 
 #-------------------------------
